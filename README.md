@@ -11,7 +11,7 @@ that you may have only read about in the past.
 
 1. Fork this repo into your own personal github account.
 2. Clone your fork onto your personal machine.
-3. Update this file (README.md) with your information.
+3. Update this file (README.md) with your name and mobile number below.
 4. Commit your changes locally.
 5. push your changes to your github account.
 6. Issue a pull request to the umichdig account.
