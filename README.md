@@ -1,7 +1,7 @@
 # dig-interns
 A git repo designed to support the intern onboarding process.
 
-The Digital Innovation Greenhouse development team makes extensive use of git to support source code
+The Digital Innovation Greenhouse (DIG) development team makes extensive use of git to support source code
 revision management.  This repo exists to support your learning about git.  What follows is a list of 
 tasks that you should complete to familiarize yourself with git and how it can be used.  Whereas this
 isn't meant to be a comprehensive tutorial, it should give you an opportunity to try things out
